@@ -7,6 +7,7 @@ I am a Postdoctoral researcher at **LAPOGE/UFSC**, currently working on the gene
 ---
 
 ### 🔍 Background & Research
+* 🧬 **Genomics Expertise:** Advanced focus on **Oncogenomics** and **Exome Interpretation (WES/WGS)**, including somatic and germline variant curation.
 * 🧠 **Thesis Focus:** Chromosomal microarray analysis (CMA/aCGH) and runs of homozygosity (ROH) in patients with neurodevelopmental disorders.
 * 📄 **Publications:** Work published in *Scientific Reports* and *BMC Medical Genomics*.
 * 🏫 **Education:** I also act as a **Biology teacher** in the Santa Catarina public school system — which keeps me sharp at translating complex data into clear explanations.
